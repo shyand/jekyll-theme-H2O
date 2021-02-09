@@ -3,22 +3,20 @@ layout: post
 title: 'Hello'
 date: 2021-02-09
 author: shyan
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: nothing but funny
+cover: 'assets\img\wallhaven-3z99r9.jpg'
+tags: nothing
 ---
 
-> Transform your plain text into static websites and blogs.
+>我想知道这是啥
 
-### 你好
+### 标题1
 
 这是第一篇博客
 
-### 标题1
-[Markdown](这是下划线) [Liquid](https://github.com/Shopify/liquid/wiki)
+### 标题2
+[Markdown](这是下划线)
+[web](https://www.bilibili.com)
 
-### Helpful HintsPermalink
-这是helpful
+### 视频测试
 
-### Video Test
-
-<iframe type="text/html" width="100%" height="385" src="https://www.bilibili.com/video/BV1zJ411C7Au" frameborder="0"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=79078164&bvid=BV1zJ411C7Au&cid=135333439&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
