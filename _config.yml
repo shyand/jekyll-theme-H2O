@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '我的博客'
-description: 'code,art, more...'
-keyword: 'keys , game, art, love, enjoy'
+title: 'shyan'
+description: 'code, art, more...'
+keyword: '游戏'
 url: 'https://www.baidu.com' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -14,12 +14,12 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2021
 
 # Author 配置博主信息
-author: 'shyand'
+author: 'shyan'
 nickname: 'LA'
-bio: 'do you game'
+bio: '做一点酷酷的'
 avatar: 'assets/img/wallhaven-3z99r9.jpg'
 
 # Search
