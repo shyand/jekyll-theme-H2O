@@ -19,4 +19,4 @@ tags: nothing
 
 ### 视频测试
 
-<iframe src="//player.bilibili.com/player.html?aid=79078164&bvid=BV1zJ411C7Au&cid=135333439&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=79078164&bvid=BV1zJ411C7Au&cid=135333439&page=1"  allowfullscreen="true"> </iframe>
