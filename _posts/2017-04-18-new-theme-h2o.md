@@ -1,32 +1,28 @@
 ---
 layout: post
-title: 'H2O theme for Jekyll'
-subtitle: '或许是最漂亮的Jekyll主题'
-date: 2017-04-18
+title: 'Blog'
+subtitle: '主题'
+date: 2021-02-22
 categories: 技术
 cover: 'assets\img\wallhaven-9m5jkd.jpg'
 tags: nothing
 ---
 
-#一级标题
+# 一级标题
 
-```
-  markdown
-```
+tooooo
 
-##二级标题
----
-cover: 'assets\img\wallhaven-9m5jkd.jpg'
----
-···
-尝试一下
-···
+## 二级标题
 
-###三级标题
+>尝试一下
+
+>换行吗
+
+### 三级标题
 ```
   ```
-    int a = 5 \\我觉得这应是代码
+    int a = 5 //code
   ```
 ```
-
-####四级标题
+### 三级标题
+标题失败
