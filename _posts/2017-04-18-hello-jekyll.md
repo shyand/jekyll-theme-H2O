@@ -1,21 +1,19 @@
 ---
 layout: post
-title: 'Hello'
+title: 'hello world'
 date: 2021-02-09
 author: shyan
-cover: 'assets\img\wallhaven-3z99r9.jpg'
+cover: 'assets\img\wallhaven-9m5jkd.jpg'
 tags: nothing
 ---
 
->我想知道这是啥
->>sfs
->>>ss
-### 标题1
+> start here
 
-这是开始
-
-### 标题2
-[bilibil](https://www.bilibili.com)
+### **设计原则**
+- 命名规范
+- - 文件 // --
+- - 脚本 // --
+- - 节点 // --
 
 ### 视频测试
 
