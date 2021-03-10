@@ -1,8 +1,8 @@
 # Site settings 配置站点
 title: 'shyan'
-description: 'code, art, more...'
+description: 'code, game, more...'
 keyword: '游戏'
-url: 'https://www.baidu.com' # your host
+url: 'https://shyand.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -18,8 +18,8 @@ footer:
 
 # Author 配置博主信息
 author: 'shyan'
-nickname: 'LA'
-bio: '做一点酷酷的'
+nickname: 'shyan'
+bio: 'Game Developer'
 avatar: 'assets/img/wallhaven-3z99r9.jpg'
 
 # Search
@@ -49,7 +49,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
+ # weibo: '//weibo.com/lovecolcol'
   github: '//github.com/shyand'
 
 # Tags 设置标签

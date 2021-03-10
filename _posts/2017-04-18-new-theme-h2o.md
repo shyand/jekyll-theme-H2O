@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'title'
-subtitle: 'subtitle'
+title: 'GAME_LOG'
+subtitle: 'LOG'
 date: 2021-02-22
-categories: nothing
-cover: 'assets\img\wallhaven-zmqe2o.png'
-tags: nothing
+categories: 游戏
+cover: 'assets\img\Snipaste_2021-03-10_13-40-18.png'
+tags: 游戏开发
 ---
 
 ### **todo**
 ### 2021/3/6 17:06
 1. **调整Main界面UI动画**
 2. 增加预制体资源导入管理模块
-3. 关卡设计
-4. 故事设计
+3. 关卡
+4. 广告
 
 ### **done**
 ### 2021/3/8 13:10
@@ -22,3 +22,5 @@ tags: nothing
 3. 优化AttackBox.ts
 4. 调整UI动画
 5. 修复带有刚体组件的子物体不跟随父物体移动的bug
+6. 制作关卡内障碍物
+7. 
